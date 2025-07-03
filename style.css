@@ -2,8 +2,21 @@
     background-color: #252525;
 }
 
-.TopBar {
-    background-color: aqua;
-    width: max-content;
-    
+.navbar ul {
+    list-style-type: none;
+    background-color: rgb(30, 30, 30);
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: rgb(15, 15, 15);
 }
