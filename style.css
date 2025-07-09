@@ -34,3 +34,12 @@ li a{
     font-weight: bold;
     margin-right: 25px;
 }
+
+.main {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: #252525;
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+}

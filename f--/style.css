@@ -34,3 +34,29 @@ li a{
     font-weight: bold;
     margin-right: 25px;
 }
+
+.main{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: #252525;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.downloads{
+    font-weight: 600;
+}
+
+.download {
+    font-weight: 500;
+}
+
+.link {
+    color: white;
+    font-weight: 700;
+}
+
+.reminder {
+    font-weight: 500;
+}
